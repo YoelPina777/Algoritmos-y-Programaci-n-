@@ -1,0 +1,8 @@
+//joel piña //
+Proceso _3_6_b
+    // (x^2 + y^2) / z^2
+    Definir x,y,r resultado Como Real
+    resultado <- (x ^ 2 + y ^ 2) / (z ^ 2)
+    Escribir "3.6 b) = ", resultado
+FinProceso
+

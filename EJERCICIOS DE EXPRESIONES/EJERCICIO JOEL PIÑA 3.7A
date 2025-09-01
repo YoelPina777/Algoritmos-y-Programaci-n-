@@ -1,0 +1,6 @@
+Algoritmo EJERCICIOJOEPINA_3_7_A
+	// b ^ 2 - 4 * a * c  ?=> algebraico: b^2 - 4 a c ?
+	Definir a, b, c, resultado Como Real
+	resultado <- b^2-4*a*c
+	Escribir '3.7 a) = ', resultado
+FinAlgoritmo
